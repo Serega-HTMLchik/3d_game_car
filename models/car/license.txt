@@ -1,0 +1,11 @@
+Model Information:
+* title:	1971 - Chevrolet Camaro Z28 (Rigged) | Mid-Poly
+* source:	https://sketchfab.com/3d-models/1971-chevrolet-camaro-z28-rigged-mid-poly-3b3a4534f516454b85b9bf230bbdc946
+* author:	UniBlend (https://sketchfab.com/UniBlend)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1971 - Chevrolet Camaro Z28 (Rigged) | Mid-Poly" (https://sketchfab.com/3d-models/1971-chevrolet-camaro-z28-rigged-mid-poly-3b3a4534f516454b85b9bf230bbdc946) by UniBlend (https://sketchfab.com/UniBlend) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
